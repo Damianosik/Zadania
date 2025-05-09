@@ -1,0 +1,27 @@
+.container {
+   
+    border: 5px solid grey;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    
+
+
+
+}
+
+
+
+.target {
+
+    background-color: purple;
+    color: white;
+    padding: 5px;
+     width: 120px;
+     height: 120px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border-radius: 0px;
+     
+}
